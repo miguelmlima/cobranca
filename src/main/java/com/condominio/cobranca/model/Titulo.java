@@ -1,10 +1,8 @@
 package com.condominio.cobranca.model;
 
 
-
 import java.math.BigDecimal;
 import java.util.Date;
-
 import javax.persistence.Entity;
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;
